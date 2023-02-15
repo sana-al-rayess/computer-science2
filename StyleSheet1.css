@@ -46,6 +46,13 @@ body {
     padding: 20px;
     margin: 0;
 }
+.rec3 {
+    background-color: #cbd4d8;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    padding: 500px;
+    margin: 50px;
+}
 
 .title1 {
     color: #e99507;
